@@ -11,8 +11,8 @@ Created a website featuring a COVID-19 dashboard and pandemic resources, with us
 Basic roles:
 
 
-- Project manager, front-end lead, Design lead, Back-end support - Ashwin 
-- Review manager, Back-end lead - Andrew 
+- Front-end lead, Design lead, Back-end support - Ashwin 
+- Project manager, Back-end lead - Andrew 
 - Release manager, Front-end support - Sofia
 - Database lead - Winfield
 
